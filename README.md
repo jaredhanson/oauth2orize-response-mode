@@ -1,1 +1,1 @@
-# oauth2orize-rm
+# oauth2orize-response-mode
