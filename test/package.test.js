@@ -2,7 +2,7 @@
 
 var pkg = require('..');
 
-describe('oauth2orize-rm', function() {
+describe('oauth2orize-response-mode', function() {
   
   it('should export object', function() {
     expect(pkg).to.be.an('object');
