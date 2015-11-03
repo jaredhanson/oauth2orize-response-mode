@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/oauth2orize-rm.git"
+    "url": "git://github.com/jaredhanson/oauth2orize-response-mode.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/oauth2orize-rm/issues"
+    "url": "http://github.com/jaredhanson/oauth2orize-response-mode/issues"
   },
   "licenses": [
     {
