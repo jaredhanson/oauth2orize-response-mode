@@ -29,9 +29,10 @@
   "dependencies": {
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x",
-    "chai-oauth2orize-grant": "0.2.x"
+    "make-node": "0.3.x",
+    "mocha": "2.x.x",
+    "chai": "2.x.x",
+    "chai-oauth2orize-grant": "0.3.x"
   },
   "engines": {
     "node": "*"
