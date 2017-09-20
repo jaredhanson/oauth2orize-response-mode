@@ -1,6 +1,6 @@
 {
   "name": "oauth2orize-response-mode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extensions to support response modes with OAuth2orize.",
   "keywords": [
     "oauth2",
@@ -26,8 +26,7 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "make-node": "0.3.x",
     "mocha": "2.x.x",
