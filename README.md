@@ -1,5 +1,12 @@
 # oauth2orize-response-mode
 
+[![Version](https://img.shields.io/npm/v/oauth2orize-response-mode.svg?label=version)](https://www.npmjs.com/package/oauth2orize-response-mode)
+[![Build](https://img.shields.io/travis/jaredhanson/oauth2orize-response-mode.svg)](https://travis-ci.org/jaredhanson/oauth2orize-response-mode)
+[![Quality](https://img.shields.io/codeclimate/github/jaredhanson/oauth2orize-response-mode.svg?label=quality)](https://codeclimate.com/github/jaredhanson/oauth2orize-response-mode)
+[![Coverage](https://img.shields.io/coveralls/jaredhanson/oauth2orize-response-mode.svg)](https://coveralls.io/r/jaredhanson/oauth2orize-response-mode)
+[![Dependencies](https://img.shields.io/david/jaredhanson/oauth2orize-response-mode.svg)](https://david-dm.org/jaredhanson/oauth2orize-response-mode)
+
+
 [OAuth2orize](https://github.com/jaredhanson/oauth2orize) extension providing
 support for requesting a particular response mode.
 
